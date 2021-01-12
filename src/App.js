@@ -1,24 +1,162 @@
-import logo from './logo.svg';
 import './App.css';
 
 function App() {
   return (
+    
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+      <div id="background">
+            <div id="Background"><img src="images/Background.png"/></div>
+            <div id="RoundedRectangle2"><img src="images/RoundedRectangle2.png"/></div>
+            <div id="RoundedRectangle2cop"><img src="images/RoundedRectangle2cop.png"/></div>
+            <div id="iStock1152828895"><img src="images/iStock1152828895.png"/></div>
+            <div id="Layer3"><img src="images/Layer3.png"/></div>
+            <div id="LoremIpsumissimplydu"><img src="images/LoremIpsumissimplydu.png"/></div>
+            <div id="RoundedRectangle3"><img src="images/RoundedRectangle3.png"/></div>
+            <div id="freeconsultation"><img src="images/freeconsultation.png"/></div>
+            <div id="Rectangle4"><img src="images/Rectangle4.png"/></div>
+            <div id="Rectangle4copy"><img src="images/Rectangle4copy.png"/></div>
+            <div id="Rectangle4copy2"><img src="images/Rectangle4copy2.png"/></div>
+            <div id="WECAREABOUTYOURHEALT"><img src="images/WECAREABOUTYOURHEALT.png"/></div>
+            <div id="Rectangle1"><img src="images/Rectangle1.png"/></div>
+            <div id="Rectangle3"><img src="images/Rectangle3.png"/></div>
+            <div id="Home"><img src="images/Home.png"/></div>
+            <div id="About"><img src="images/About.png"/></div>
+            <div id="Service"><img src="images/Service.png"/></div>
+            <div id="OurTeam"><img src="images/OurTeam.png"/></div>
+            <div id="Blog"><img src="images/Blog.png"/></div>
+            <div id="RoundedRectangle1"><img src="images/RoundedRectangle1.png"/></div>
+            <div id="Logo"><img src="images/Logo.png"/></div>
+            <div id="layer_1231565664"><img src="images/layer_1231565664.png"/></div>
+            <div id="VectorSmartObject"><img src="images/VectorSmartObject.png"/></div>
+            <div id="Rectangle5"><img src="images/Rectangle5.png"/></div>
+            <div id="Rectangle7"><img src="images/Rectangle7.png"/></div>
+            <div id="Rectangle7copy"><img src="images/Rectangle7copy.png"/></div>
+            <div id="Rectangle7copy2"><img src="images/Rectangle7copy2.png"/></div>
+            <div id="Rectangle7copy3"><img src="images/Rectangle7copy3.png"/></div>
+            <div id="Rectangle7copy3_0"><img src="images/Rectangle7copy3_0.png"/></div>
+            <div id="Rectangle7copy3_1"><img src="images/Rectangle7copy3_1.png"/></div>
+            <div id="iStock471562226"><img src="images/iStock471562226.png"/></div>
+            <div id="RoundedRectangle4"><img src="images/RoundedRectangle4.png"/></div>
+            <div id="Whoweare"><img src="images/Whoweare.png"/></div>
+            <div id="Itisalongestablished"><img src="images/Itisalongestablished.png"/></div>
+            <div id="ReadMore"><img src="images/ReadMore.png"/></div>
+            <div id="VectorSmartObject_0"><img src="images/VectorSmartObject_0.png"/></div>
+            <div id="Rectangle6"><img src="images/Rectangle6.png"/></div>
+            <div id="OpeningHours"><img src="images/OpeningHours.png"/></div>
+            <div id="MondayFriday"><img src="images/MondayFriday.png"/></div>
+            <div id="Saturday"><img src="images/Saturday.png"/></div>
+            <div id="Sunday"><img src="images/Sunday.png"/></div>
+            <div id="VisitorsHours"><img src="images/VisitorsHours.png"/></div>
+            <div id="MondayFridaycopy"><img src="images/MondayFridaycopy.png"/></div>
+            <div id="Saturdaycopy"><img src="images/Saturdaycopy.png"/></div>
+            <div id="Sundaycopy"><img src="images/Sundaycopy.png"/></div>
+            <div id="layer_8001800"><img src="images/layer_8001800.png"/></div>
+            <div id="layer_9001800"><img src="images/layer_9001800.png"/></div>
+            <div id="Sunday_0"><img src="images/Sunday_0.png"/></div>
+            <div id="MondayFriday_0"><img src="images/MondayFriday_0.png"/></div>
+            <div id="Saturday_0"><img src="images/Saturday_0.png"/></div>
+            <div id="Sunday_1"><img src="images/Sunday_1.png"/></div>
+            <div id="OurServices"><img src="images/OurServices.png"/></div>
+            <div id="WeProvideBestService"><img src="images/WeProvideBestService.png"/></div>
+            <div id="LaboratoryTest"><img src="images/LaboratoryTest.png"/></div>
+            <div id="Loremipsumdolorsitam"><img src="images/Loremipsumdolorsitam.png"/></div>
+            <div id="Consultation"><img src="images/Consultation.png"/></div>
+            <div id="Loremipsumdolorsitam_0"><img src="images/Loremipsumdolorsitam_0.png"/></div>
+            <div id="Emergency"><img src="images/Emergency.png"/></div>
+            <div id="Loremipsumdolorsitam_1"><img src="images/Loremipsumdolorsitam_1.png"/></div>
+            <div id="RoundedRectangle9"><img src="images/RoundedRectangle9.png"/></div>
+            <div id="Treatment"><img src="images/Treatment.png"/></div>
+            <div id="Loremipsumdolorsitam_2"><img src="images/Loremipsumdolorsitam_2.png"/></div>
+            <div id="doctorstabimg1"><img src="images/doctorstabimg1.png"/></div>
+            <div id="Rectangle8"><img src="images/Rectangle8.png"/></div>
+            <div id="Rectangle9"><img src="images/Rectangle9.png"/></div>
+            <div id="iStock600073900"><img src="images/iStock600073900.png"/></div>
+            <div id="Layer1"><img src="images/Layer1.png"/></div>
+            <div id="Rectangle11"><img src="images/Rectangle11.png"/></div>
+            <div id="Rectangle11copy2"><img src="images/Rectangle11copy2.png"/></div>
+            <div id="Rectangle11copy"><img src="images/Rectangle11copy.png"/></div>
+            <div id="MeetOurTeam"><img src="images/MeetOurTeam.png"/></div>
+            <div id="ProfessionalandCerti"><img src="images/ProfessionalandCerti.png"/></div>
+            <div id="RoundedRectangle6"><img src="images/RoundedRectangle6.png"/></div>
+            <div id="RoundedRectangle6cop"><img src="images/RoundedRectangle6cop.png"/></div>
+            <div id="doctorbulkbillingdoc"><img src="images/doctorbulkbillingdoc.png"/></div>
+            <div id="RoundedRectangle6cop_0"><img src="images/RoundedRectangle6cop_0.png"/></div>
+            <div id="bannerimg"><img src="images/bannerimg.png"/></div>
+            <div id="Rectangle10"><img src="images/Rectangle10.png"/></div>
+            <div id="doctorPNG15959"><img src="images/doctorPNG15959.png"/></div>
+            <div id="LoremIpsum"><img src="images/LoremIpsum.png"/></div>
+            <div id="LoremIpsum_0"><img src="images/LoremIpsum_0.png"/></div>
+            <div id="LoremIpsumcopy"><img src="images/LoremIpsumcopy.png"/></div>
+            <div id="LoremIpsumcopy_0"><img src="images/LoremIpsumcopy_0.png"/></div>
+            <div id="LoremIpsumcopy2"><img src="images/LoremIpsumcopy2.png"/></div>
+            <div id="LoremIpsumcopy2_0"><img src="images/LoremIpsumcopy2_0.png"/></div>
+            <div id="VectorSmartObject_1"><img src="images/VectorSmartObject_1.png"/></div>
+            <div id="VectorSmartObjectcop"><img src="images/VectorSmartObjectcop.png"/></div>
+            <div id="RoundedRectangle14"><img src="images/RoundedRectangle14.png"/></div>
+            <div id="LatestNews"><img src="images/LatestNews.png"/></div>
+            <div id="UpdateYourKnowledgeA"><img src="images/UpdateYourKnowledgeA.png"/></div>
+            <div id="Rectangle12"><img src="images/Rectangle12.png"/></div>
+            <div id="RoundedRectangle7"><img src="images/RoundedRectangle7.png"/></div>
+            <div id="RoundedRectangle8"><img src="images/RoundedRectangle8.png"/></div>
+            <div id="iStock471562226_0"><img src="images/iStock471562226_0.png"/></div>
+            <div id="LoremIpsumisdummyy"><img src="images/LoremIpsumisdummyy.png"/></div>
+            <div id="UpdateYourKnowledgeA_0"><img src="images/UpdateYourKnowledgeA_0.png"/></div>
+            <div id="22June"><img src="images/22June.png"/></div>
+            <div id="RoundedRectangle7cop"><img src="images/RoundedRectangle7cop.png"/></div>
+            <div id="RoundedRectangle8cop"><img src="images/RoundedRectangle8cop.png"/></div>
+            <div id="iStock471562226copy"><img src="images/iStock471562226copy.png"/></div>
+            <div id="LoremIpsumisdummyyco"><img src="images/LoremIpsumisdummyyco.png"/></div>
+            <div id="UpdateYourKnowledgeA_1"><img src="images/UpdateYourKnowledgeA_1.png"/></div>
+            <div id="22Junecopy"><img src="images/22Junecopy.png"/></div>
+            <div id="RoundedRectangle7cop_0"><img src="images/RoundedRectangle7cop_0.png"/></div>
+            <div id="RoundedRectangle8cop_0"><img src="images/RoundedRectangle8cop_0.png"/></div>
+            <div id="iStock471562226copy2"><img src="images/iStock471562226copy2.png"/></div>
+            <div id="LoremIpsumisdummyyco_0"><img src="images/LoremIpsumisdummyyco_0.png"/></div>
+            <div id="UpdateYourKnowledgeA_2"><img src="images/UpdateYourKnowledgeA_2.png"/></div>
+            <div id="22Junecopy2"><img src="images/22Junecopy2.png"/></div>
+            <div id="VectorSmartObjectcop_0"><img src="images/VectorSmartObjectcop_0.png"/></div>
+            <div id="VectorSmartObjectcop_1"><img src="images/VectorSmartObjectcop_1.png"/></div>
+            <div id="Rectangle11copy3"><img src="images/Rectangle11copy3.png"/></div>
+            <div id="Rectangle11copy3_0"><img src="images/Rectangle11copy3_0.png"/></div>
+            <div id="Rectangle11copy3_1"><img src="images/Rectangle11copy3_1.png"/></div>
+            <div id="Rectangle13"><img src="images/Rectangle13.png"/></div>
+            <div id="iStock1127146744"><img src="images/iStock1127146744.png"/></div>
+            <div id="EnteryourEmailAddres"><img src="images/EnteryourEmailAddres.png"/></div>
+            <div id="Rectangle14"><img src="images/Rectangle14.png"/></div>
+            <div id="RoundedRectangle10"><img src="images/RoundedRectangle10.png"/></div>
+            <div id="Subscribenow"><img src="images/Subscribenow.png"/></div>
+            <div id="MAKEANAPPOINTMENT"><img src="images/MAKEANAPPOINTMENT.png"/></div>
+            <div id="Loremipsumdolorsitam_3"><img src="images/Loremipsumdolorsitam_3.png"/></div>
+            <div id="Rectangle15"><img src="images/Rectangle15.png"/></div>
+            <div id="RoundedRectangle11"><img src="images/RoundedRectangle11.png"/></div>
+            <div id="RoundedRectangle12"><img src="images/RoundedRectangle12.png"/></div>
+            <div id="Layer2"><img src="images/Layer2.png"/></div>
+            <div id="Rectangle16"><img src="images/Rectangle16.png"/></div>
+            <div id="FullName"><img src="images/FullName.png"/></div>
+            <div id="Rectangle16copy"><img src="images/Rectangle16copy.png"/></div>
+            <div id="Email"><img src="images/Email.png"/></div>
+            <div id="Rectangle16copy2"><img src="images/Rectangle16copy2.png"/></div>
+            <div id="MobileNumber"><img src="images/MobileNumber.png"/></div>
+            <div id="Rectangle16copy3"><img src="images/Rectangle16copy3.png"/></div>
+            <div id="BookingDate"><img src="images/BookingDate.png"/></div>
+            <div id="Rectangle16copy4"><img src="images/Rectangle16copy4.png"/></div>
+            <div id="Deparment"><img src="images/Deparment.png"/></div>
+            <div id="Rectangle16copy4_0"><img src="images/Rectangle16copy4_0.png"/></div>
+            <div id="Doctor"><img src="images/Doctor.png"/></div>
+            <div id="Rectangle16copy4_1"><img src="images/Rectangle16copy4_1.png"/></div>
+            <div id="YourMessage"><img src="images/YourMessage.png"/></div>
+            <div id="RoundedRectangle13"><img src="images/RoundedRectangle13.png"/></div>
+            <div id="BOOKAPPOINTMENT"><img src="images/BOOKAPPOINTMENT.png"/></div>
+            <div id="VectorSmartObjectcop_2"><img src="images/VectorSmartObjectcop_2.png"/></div>
+            <div id="VectorSmartObjectcop_3"><img src="images/VectorSmartObjectcop_3.png"/></div>
+            <div id="6510369preview"><img src="images/6510369preview.png"/></div>
+            <div id="Rectangle17"><img src="images/Rectangle17.png"/></div>
+            <div id="Copyright2020Allrigh"><img src="images/Copyright2020Allrigh.png"/></div>
+            <div id="Emailhealthcareplusg"><img src="images/Emailhealthcareplusg.png"/></div>
+            <div id="VectorSmartObject_2"><img src="images/VectorSmartObject_2.png"/></div>
+        </div>
     </div>
+    
   );
 }
 
